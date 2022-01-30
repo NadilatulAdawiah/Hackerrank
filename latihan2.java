@@ -15,6 +15,8 @@ public class latihan2 {
         System.out.println(b);
         System.out.println(c);
 
+        scan.close();
+
     }
     
 }
