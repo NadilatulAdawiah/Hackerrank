@@ -3,6 +3,7 @@ import java.util.*;
 
 
 public class latihan3 {
+    //latihan 3 hari 1
 
     private static final Scanner scanner = new Scanner(System.in);
 

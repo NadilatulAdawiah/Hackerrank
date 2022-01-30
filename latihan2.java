@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class latihan2 {
-
+    //latihan 2 hari 1
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("inputkan 3 nilai: ");
