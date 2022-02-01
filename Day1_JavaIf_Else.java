@@ -1,8 +1,14 @@
 
+import java.io.*;
+import java.math.*;
+import java.security.*;
+import java.text.*;
 import java.util.*;
+import java.util.concurrent.*;
+import java.util.regex.*;
 
 
-public class latihan3 {
+public class Day1_JavaIf_Else {
     //latihan 3 hari 1
 
     private static final Scanner scanner = new Scanner(System.in);

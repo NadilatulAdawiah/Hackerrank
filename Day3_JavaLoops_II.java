@@ -1,7 +1,8 @@
 import java.util.*;
+import java.io.*;
 
 
-public class latihan7 {
+public class Day3_JavaLoops_II {
 
     public static void main(String []argh){
         Scanner in = new Scanner(System.in);

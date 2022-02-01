@@ -1,6 +1,7 @@
 import java.util.*;
+import java.io.*;
 
-class latihan8 {
+class Day3_Java_Datatypes {
     public static void main(String []argh)
     {
 

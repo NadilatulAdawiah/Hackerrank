@@ -1,5 +1,5 @@
 
-public class latihan1 {
+public class Day1_Welcome_To_java {
 
     //latihan 1
     public static void main(String[] args){

@@ -1,7 +1,11 @@
+import java.io.*;
 import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
 
 
-public class latihan10 {
+public class Day4_JavaStatic_Initializer_Block {
 
     // Write your code here
 static Scanner sc = new Scanner(System.in);
