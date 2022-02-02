@@ -1,7 +1,7 @@
 import java.util.*;
 import java.security.*;
 
-public class latihan11 {
+public class Day4_JavaInt_ToString {
 
     public static void main(String[] args) {
 

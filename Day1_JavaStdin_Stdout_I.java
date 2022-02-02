@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class latihan2 {
+public class Day1_JavaStdin_Stdout_I {
     //latihan 2 hari 1
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
@@ -8,7 +8,6 @@ public class latihan2 {
         int a = scan.nextInt();
         int b = scan.nextInt();
         int c = scan.nextInt();
-
         
         System.out.println("Berikut hasil inputan: ");
         System.out.println(a);
