@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-class Day3_Java_Datatypes {
+class Day1_Java_Datatypes {
     public static void main(String []argh)
     {
 

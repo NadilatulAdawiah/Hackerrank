@@ -5,7 +5,7 @@ import java.math.*;
 import java.util.regex.*;
 
 
-public class Day4_JavaStatic_Initializer_Block {
+public class Day1_JavaStatic_Initializer_Block {
 
     // Write your code here
 static Scanner sc = new Scanner(System.in);

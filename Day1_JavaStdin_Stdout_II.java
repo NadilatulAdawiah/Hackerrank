@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Day2_JavaStdin_Stdout_II {
+public class Day1_JavaStdin_Stdout_II {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int i = scan.nextInt();

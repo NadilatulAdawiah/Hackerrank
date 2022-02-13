@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.*;
 
 
-public class Day3_JavaLoops_II {
+public class Day1_JavaLoops_II {
 
     public static void main(String []argh){
         Scanner in = new Scanner(System.in);
