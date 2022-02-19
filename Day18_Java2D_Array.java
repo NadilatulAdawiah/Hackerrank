@@ -6,7 +6,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Day16_Java2D_Array {
+public class Day18_Java2D_Array {
 
     public static void main(String[] args) throws IOException {
         int[][] arr = new int[6][6];
