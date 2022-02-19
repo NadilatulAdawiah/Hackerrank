@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Day5_Java_Anagrams {
+public class Day8_Java_Anagrams {
     static boolean isAnagram(String a, String b) {
         // Complete the function
         if(a==null||b==null||a.equals("")||b.equals("")){

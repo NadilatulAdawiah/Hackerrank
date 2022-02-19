@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Day8_JavaRegex_ValidUsername {
+public class Day10_JavaRegex_ValidUsername {
     public static final String regularExpression = "^[a-zA-Z]\\w{7,29}$";
 
     private static final Scanner scan = new Scanner(System.in);

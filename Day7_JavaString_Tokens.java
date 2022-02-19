@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Day5_JavaString_Tokens{
+public class Day7_JavaString_Tokens{
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         String s = scan.nextLine();
