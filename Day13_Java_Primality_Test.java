@@ -7,7 +7,7 @@ import java.util.concurrent.*;
 import java.util.regex.*;
 
 
-public class Day11_Java_Primality_Test {
+public class Day13_Java_Primality_Test {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 

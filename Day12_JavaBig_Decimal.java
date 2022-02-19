@@ -1,7 +1,7 @@
 import java.math.BigDecimal;
 import java.util.*;
 
-public class Day10_JavaBig_Decimal {
+public class Day12_JavaBig_Decimal {
     public static void main(String []args){
         //Input
         Scanner sc= new Scanner(System.in);
