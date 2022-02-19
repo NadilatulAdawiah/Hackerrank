@@ -10,7 +10,7 @@ public class Day10_JavaRegex_ValidUsername {
         while (n-- != 0) {
             String userName = scan.nextLine();
 
-            if (userName.matches(Day8_JavaRegex_ValidUsername.regularExpression)) {
+            if (userName.matches(Day10_JavaRegex_ValidUsername.regularExpression)) {
                 System.out.println("Valid");
             } else {
                 System.out.println("Invalid");
