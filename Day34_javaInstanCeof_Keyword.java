@@ -6,7 +6,7 @@ class Rockstar{   }
 class Hacker{}
 
 
-public class Day33_javaInstanCeof_Keyword{
+public class Day34_javaInstanCeof_Keyword{
     
    static String count(ArrayList mylist){
       int a = 0,b = 0,c = 0;
